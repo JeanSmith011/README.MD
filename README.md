@@ -1,6 +1,6 @@
-## Olá, eu sou o Kawã Fonseca 👋
+## Olá, eu sou o Jean Santos 👋
 
-Atualmente estou cursando **Ciência da Computação** e trabalhando como **Estagiário em Suporte Técnico - Nível 1** na **FagronTech**.
+Atualmente estou cursando **Ciência da Computação** e trabalhando como **Estagiário de Infraestrutura - na **Bosal**.
 
 ---
 ## 🤖 Linguagens
