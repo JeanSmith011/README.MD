@@ -23,7 +23,7 @@ Atualmente estou cursando **Ciência da Computação** e trabalhando como **Esta
 
 ## ✉️ Informações para Contato<p>
 <p align="center">
-  <a href="mailto:kawa.fonseca18@gmail.com" target="_blank">
+  <a href="mailto:Jsnegocioonline@Gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Kaw%C3%A3%20Fonseca-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   
